@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AlioTheCat
-- 👀 I’m interested in music, video games, maths, boulder climbing and most of all, programming.
+- 👀 I’m interested in music, video games, maths, rock climbing and most of all, programming.
 - 🌱 I’m currently learning oCaml, and plan to dig into C/C# later on. 
 <!---
 - 💞️ I’m looking to collaborate on ...
